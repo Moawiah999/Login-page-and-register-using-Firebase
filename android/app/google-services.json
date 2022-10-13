@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "388962360727",
+    "project_id": "omar-project-3c539",
+    "storage_bucket": "omar-project-3c539.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388962360727:android:6cd2057a86fdafcb3778d2",
+        "android_client_info": {
+          "package_name": "com.example.tesrfier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388962360727-7lgl5p47t0ge9oni3ss1bdfrpcl281ha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhs0rlZ9wtqz2a6v0DsN2pB5HnPIRBU-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388962360727-7lgl5p47t0ge9oni3ss1bdfrpcl281ha.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "388962360727-1k0bt4dgj6lksnl581jdf2dh06skev34.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tesrfier"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
